@@ -1,4 +1,4 @@
-# Arduino LPG Gas Detector with Line Notification
+# Arduino LPG Gas Detector with Line Notification(เครื่องตรวจจับเเก๊สLPGเเจ้งเตือนผ่านไล)
 
 ![Project Image](project_image.jpg)
 
