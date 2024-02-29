@@ -30,6 +30,3 @@ This project is aimed at creating an LPG gas detector using Arduino, capable of 
 1. Generate a Line Notify Token from [Line Notify](https://notify-bot.line.me/th/).
 2. Use the generated token in the code.
 
-## Example Code
-```cpp
-// Insert your example code here
